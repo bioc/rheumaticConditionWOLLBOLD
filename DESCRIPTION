@@ -2,11 +2,10 @@ Package: rheumaticConditionWOLLBOLD
 Type: Package
 Title: Normalized gene expression dataset published by Wollbold et al.
         [2009] (WOLLBOLD).
-Version: 1.5.0
+Version: 1.5.1
 Date: 2011-16-12
 Description: Normalized gene expression data from rheumatic diseases from study published by Wollbold et al. in 2009, provided as an eSet.
-biocViews: ExperimentData, Rheumatic diseases,Arthritis,
-        Osteoarthritis, GeneExpression, Microarray
+biocViews: ExperimentData, Tissue, MicroarrayData, MultiChannelData, ChipOnChipData, TissueMicroarrayData, GEO, ArrayExpress
 Author: Alejandro Quiroz-Zarate, John Quackenbush
 Maintainer: Alejandro Quiroz-Zarate <aquiroz@hsph.harvard.edu>
 Depends: R (>= 2.10.0)
